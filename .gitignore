@@ -1,0 +1,39 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Design Pattern/BehaviouralDesignPatterns/.vs
+/Design Pattern/BehaviouralDesignPatterns/ChainOfResponsibility/bin/Debug/net6.0
+/Design Pattern/BehaviouralDesignPatterns/ChainOfResponsibility/obj
+/Design Pattern/BehaviouralDesignPatterns/IteratorPattern/bin/Debug/net6.0
+/Design Pattern/BehaviouralDesignPatterns/IteratorPattern/obj
+/Design Pattern/BehaviouralDesignPatterns/MediatorPattern/bin/Debug/net6.0
+/Design Pattern/BehaviouralDesignPatterns/MediatorPattern/obj
+/Design Pattern/BehaviouralDesignPatterns/StratergyPattern/bin/Debug/net6.0
+/Design Pattern/BehaviouralDesignPatterns/StratergyPattern/obj
+/Design Pattern/CreationalDesignPattern/.vs
+/Design Pattern/CreationalDesignPattern/AbstractFactoryPattern/bin/Debug/net6.0
+/Design Pattern/CreationalDesignPattern/AbstractFactoryPattern/obj
+/Design Pattern/CreationalDesignPattern/BuilderPattern/bin/Debug/net6.0
+/Design Pattern/CreationalDesignPattern/BuilderPattern/obj
+/Design Pattern/CreationalDesignPattern/FactoryPattern/bin/Debug/net6.0
+/Design Pattern/CreationalDesignPattern/FactoryPattern/obj
+/Design Pattern/CreationalDesignPattern/PrototypePattern/bin/Debug/net6.0
+/Design Pattern/CreationalDesignPattern/PrototypePattern/obj
+/Design Pattern/CreationalDesignPattern/SingletonPattern/bin/Debug/net6.0
+/Design Pattern/CreationalDesignPattern/SingletonPattern/obj
+/Design Pattern/OopsPlayGround/.vs
+/Design Pattern/OopsPlayGround/OopsPlayGround/bin/Debug/net6.0
+/Design Pattern/OopsPlayGround/OopsPlayGround/obj
+/Design Pattern/StructuralDesignPattern/.vs
+/Design Pattern/StructuralDesignPattern/AdapterPattern/bin/Debug/net6.0
+/Design Pattern/StructuralDesignPattern/AdapterPattern/obj
+/Design Pattern/StructuralDesignPattern/BridgePattern/obj
+/Design Pattern/StructuralDesignPattern/CompositePattern/bin/Debug/net6.0
+/Design Pattern/StructuralDesignPattern/CompositePattern/obj
+/Design Pattern/StructuralDesignPattern/DecoratorPattern/bin/Debug/net6.0
+/Design Pattern/StructuralDesignPattern/DecoratorPattern/obj
+/Design Pattern/StructuralDesignPattern/FacadePattern/bin/Debug/net6.0
+/Design Pattern/StructuralDesignPattern/FacadePattern/obj
+/Design Pattern/StructuralDesignPattern/ProxyPattern/bin/Debug/net6.0
+/Design Pattern/StructuralDesignPattern/ProxyPattern/obj
